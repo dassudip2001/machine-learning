@@ -1,0 +1,290 @@
+YEAR,TOURNAMENT,WINNER,RUNNER-UP,WINNER_NATIONALITY,WINNER_ATP_RANKING,RUNNER-UP_ATP_RANKING,WINNER_LEFT_OR_RIGHT_HANDED,TOURNAMENT_SURFACE,WINNER_PRIZE
+2022,French Open,Rafael Nadal,Casper Rudd,Spanish,5,8,left,Clay,1870000
+2022,Australian Open,Rafael Nadal,Daniil Medvedev,Spanish,5,2,left,Plexicushion Prestige,4400000
+2021,U.S. Open,Daniil Medvedev,Novak Djokovic,Russian,2,1,right,DecoTurf - outdoors,2500000
+2021,Wimbledon,Novak Djokovic,Matteo Berrettini,Serbian,1,7,right,Grass / Outdoor,1700000
+2021,French Open,Novak Djokovic,Stefanos Tsitsipas,Serbian,1,4,right,Clay,1400000
+2021,Australian Open,Novak Djokovic,Daniil Medvedev,Serbian,1,2,right,Plexicushion Prestige,2875000
+2020,French Open,Rafael Nadal,Novak Djokovic,Spanish,2,1,left,Clay,1600000
+2020,U.S. Open,Dominic Thiem,Alexander Zverev,Austrian,3,7,right,DecoTurf - outdoors,2500000
+2020,Australian Open,Novak Djokovic,Dominic Thiem,Serbian,1,3,right,Plexicushion Prestige,4120000
+2019,U.S. Open,Rafael Nadal,Daniil Medvedev,Spanish,1,5,left,DecoTurf - outdoors,3850000
+2019,Wimbledon,Novak Djokovic,Roger Federer,Serbian,2,3,right,Grass / Outdoor,2350000
+2019,French Open,Rafael Nadal,Dominic Thiem,Spanish,1,4,left,Clay,2300000
+2019,Australian Open,Novak Djokovic,Rafael Nadal,Serbian,2,1,right,Plexicushion Prestige,4100000
+2018,U.S. Open,Novak Djokovic,Juan Martin del Potro,Serbian,1,5,right,DecoTurf - outdoors,3800000
+2018,Wimbledon,Novak Djokovic,Kevin Anderson,Serbian,1,6,right,Grass / Outdoor,2250000
+2018,French Open,Rafael Nadal,Dominic Thiem,Spanish,2,8,left,Clay,2200000
+2018,Australian Open,Roger Federer,Marin ili,Swiss,3,7,right,Plexicushion Prestige,4000000
+2017,U.S. Open,Rafael Nadal,Kevin Anderson,Spanish,1,14,left,DecoTurf - outdoors,3700000
+2017,Wimbledon,Roger Federer,Marin ili,Swiss,2,6,right,Grass / Outdoor,2200000
+2017,French Open,Rafael Nadal,Stan Wawrinka,Spanish,1,9,left,Clay,2100000
+2017,Australian Open,Roger Federer,Rafael Nadal,Swiss,2,1,right,Plexicushion Prestige,3700000
+2016,U.S. Open,Stan Wawrinka,Novak Djokovic,Swiss,4,2,right,DecoTurf - outdoors,3500000
+2016,Wimbledon,Andy Murray,Milos Raonic,British,1,3,right,Grass / Outdoor,2000000
+2016,French Open,Novak Djokovic,Andy Murray,Serbian,2,1,right,Clay,2000000
+2016,Australian Open,Novak Djokovic,Andy Murray,Serbian,2,1,right,Plexicushion Prestige,3400000
+2015,U.S. Open,Novak Djokovic,Roger Federer,Serbian,1,3,right,DecoTurf - outdoors,3300000
+2015,Wimbledon,Novak Djokovic,Roger Federer,Serbian,1,3,right,Grass / Outdoor,1880000
+2015,French Open,Stan Wawrinka,Novak Djokovic,Swiss,4,1,right,Clay,1800000
+2015,Australian Open,Novak Djokovic,Andy Murray,Serbian,1,2,right,Plexicushion Prestige,3100000
+2014,U.S. Open,Marin Cilic,Kei Nishikori,Croatian,9,5,right,DecoTurf - outdoors,3000000
+2014,Wimbledon,Novak Djokovic,Roger Federer,Serbian,1,2,right,Grass / Outdoor,1760000
+2014,French Open,Rafael Nadal,Novak Djokovic,Spanish,3,1,left,Clay,1650000
+2014,Australian Open,Stan Wawrinka,Rafael Nadal,Swiss,4,3,right,Plexicushion Prestige,2650000
+2013,U.S. Open,Rafael Nadal,Novak Djokovic,Spanish,1,2,left,DecoTurf - outdoors,2600000
+2013,Wimbledon,Andy Murray,Novak Djokovic,British,4,2,right,Grass / Outdoor,1600000
+2013,French Open,Rafael Nadal,David Ferrer,Spanish,1,3,left,Clay,1500000
+2013,Australian Open,Novak Djokovic,Andy Murray,Serbian,2,4,right,Plexicushion Prestige,2430000
+2012,U.S. Open,Andy Murray,Novak Djokovic,British,3,1,right,DecoTurf - outdoors,1900000
+2012,Wimbledon,Roger Federer,Andy Murray,Swiss,2,3,right,Grass / Outdoor,1150000
+2012,French Open,Rafael Nadal,Novak Djokovic,Spanish,4,1,left,Clay,1250000
+2012,Australian Open,Novak Djokovic,Rafael Nadal,Serbian,1,4,right,Plexicushion Prestige,2300000
+2011,U.S. Open,Novak Djokovic,Rafael Nadal,Serbian,1,2,right,DecoTurf - outdoors,1800000
+2011,Wimbledon,Novak Djokovic,Rafael Nadal,Serbian,1,2,right,Grass / Outdoor,1100000
+2011,French Open,Rafael Nadal,Roger Federer,Spanish,2,3,left,Clay,1200000
+2011,Australian Open,Novak Djokovic,Andy Murray,Serbian,1,4,right,Plexicushion Prestige,2200000
+2010,U.S. Open,Rafael Nadal,Novak Djokovic,Spanish,1,3,left,DecoTurf - outdoors,1700000
+2010,Wimbledon,Rafael Nadal,Tomas Berdych,Spanish,1,6,left,Grass / Outdoor,1000000
+2010,French Open,Rafael Nadal,Robin Soderling,Spanish,1,5,left,Clay,1120000
+2010,Australian Open,Roger Federer,Andy Murray,Swiss,2,4,right,Plexicushion Prestige,2100000
+2009,U.S. Open,Juan Martin del Potro,Roger Federer,Argentine,5,5,right,DecoTurf - outdoors,1600000
+2009,Wimbledon,Roger Federer,Andy Roddick,Swiss,1,1,right,Grass / Outdoor,850000
+2009,French Open,Roger Federer,Robin Soderling,Swiss,1,1,right,Clay,1060000
+2009,Australian Open,Rafael Nadal,Roger Federer,Spanish,2,2,left,Plexicushion Prestige,2000000
+2008,U.S. Open,Roger Federer,Andy Murray,Swiss,2,4,right,DecoTurf - outdoors,1500000
+2008,Wimbledon,Rafael Nadal,Roger Federer,Spanish,1,2,left,Grass / Outdoor,750000
+2008,French Open,Rafael Nadal,Roger Federer,Spanish,1,2,left,Clay,1000000
+2008,Australian Open,Novak Djokovic,Jo-Wilfried Tsonga,Serbian,3,6,right,Plexicushion Prestige,1370000
+2007,U.S. Open,Roger Federer,Novak Djokovic,Swiss,1,3,right,DecoTurf - outdoors,1400000
+2007,Wimbledon,Roger Federer,Rafael Nadal,Swiss,1,2,right,Grass / Outdoor,700000
+2007,French Open,Rafael Nadal,Roger Federer,Spanish,2,1,left,Clay,1000000
+2007,Australian Open,Roger Federer,Fernando Gonzalez,Swiss,1,7,right,Rebound Ace,1281000
+2006,U.S. Open,Roger Federer,Andy Roddick,Swiss,,,right,DecoTurf - outdoors,1200000
+2006,Wimbledon,Roger Federer,Rafael Nadal,Swiss,,,right,Grass / Outdoor,655000
+2006,French Open,Rafael Nadal,Roger Federer,Spanish,,,left,Clay,940000
+2006,Australian Open,Roger Federer,Marcos Baghdatis,Swiss,,,right,Rebound Ace,1220000
+2005,U.S. Open,Roger Federer,Andre Agassi,Swiss,,,right,DecoTurf - outdoors,1100000
+2005,Wimbledon,Roger Federer,Andy Roddick,Swiss,,,right,Grass / Outdoor,630000
+2005,French Open,Rafael Nadal,Mariano Puerta,Spanish,,,left,Clay,880000
+2005,Australian Open,Marat Safin,Lleyton Hewitt,Russian,,,right,Rebound Ace,1206620
+2004,U.S. Open,Roger Federer,Lleyton Hewitt,Swiss,,,right,DecoTurf - outdoors,1000000
+2004,Wimbledon,Roger Federer,Andy Roddick,Swiss,,,right,Grass / Outdoor,602500
+2004,French Open,Gaston Gaudio,Guillermo Coria,Argentine,,,right,Clay,860000
+2004,Australian Open,Roger Federer,Marat Safin,Swiss,,,right,Rebound Ace,1200000
+2003,U.S. Open,Andy Roddick,Juan Carlos Ferrero,American,,,right,DecoTurf - outdoors,1000000
+2003,Wimbledon,Roger Federer,Mark Philippoussis,Swiss,,,right,Grass / Outdoor,575000
+2003,French Open,Juan Carlos Ferrero,Martin Verkerk,Spanish,,,right,Clay,840000
+2003,Australian Open,Andre Agassi,Rainer Schuettler,American,,,right,Rebound Ace,1127850
+2002,U.S. Open,Pete Sampras,Andre Agassi,American,,,right,DecoTurf - outdoors,900000
+2002,Wimbledon,Lleyton Hewitt,David Nalbandian,Australian,,,right,Grass / Outdoor,525000
+2002,French Open,Albert Costa,Juan Carlos Ferrero,Spanish,,,right,Clay,780000
+2002,Australian Open,Thomas Johannson,Marat Safin,Swedish,,,right,Rebound Ace,1000000
+2001,U.S. Open,Lleyton Hewitt,Pete Sampras,Australian,,,right,DecoTurf - outdoors,850000
+2001,Wimbledon,Goran Ivanisevic,Patrick Rafter,Croatian,,,left,Grass / Outdoor,500000
+2001,French Open,Gustavo Kuerten,Alex Corretja,Brazilian,,,right,Clay,4538000
+2001,Australian Open,Andre Agassi,Arnaud Clement,American,,,right,Rebound Ace,830500
+2000,U.S. Open,Marat Safin,Pete Sampras,Russian,,,right,DecoTurf - outdoors,800000
+2000,Wimbledon,Pete Sampras,Patrick Rafter,American,,,right,Grass / Outdoor,477500
+2000,French Open,Gustavo Kuerten,Magnus Norman,Brazilian,,,right,Clay,4240000
+2000,Australian Open,Andre Agassi,Yevgeny Kafelnikov,American,,,right,Rebound Ace,755000
+1999,U.S. Open,Andre Agassi,Todd Martin,American,,,right,DecoTurf - outdoors,750000
+1999,Wimbledon,Pete Sampras,Andre Agassi,American,,,right,Grass / Outdoor,455000
+1999,French Open,Andre Agassi,Andre Medvedev,American,,,right,Clay,4040000
+1999,Australian Open,Yevgeny Kafelnikov,Thomas Enqvist,Russian,,,right,Rebound Ace,722000
+1998,U.S. Open,Patrick Rafter,Mark Philippoussis,Australian,,,right,DecoTurf - outdoors,700000
+1998,Wimbledon,Pete Sampras,Goran Ivanisevic,American,,,right,Grass / Outdoor,435000
+1998,French Open,Carlos Moya,Alex Corretja,Spanish,,,right,Clay,3852000
+1998,Australian Open,Petr Korda,Marcelo Rios,Czech,,,left,Rebound Ace,615000
+1997,U.S. Open,Patrick Rafter,Greg Rusedski,Australian,,,right,DecoTurf - outdoors,650000
+1997,Wimbledon,Pete Sampras,Cedric Pioline,American,,,right,Grass / Outdoor,415000
+1997,French Open,Gustavo Kuerten,Sergi Bruguera,Brazilian,,,right,Clay,3668000
+1997,Australian Open,Pete Sampras,Carlos Moya,American,,,right,Rebound Ace,585000
+1996,U.S. Open,Pete Sampras,Michael Chang,American,,,right,DecoTurf - outdoors,600000
+1996,Wimbledon,Richard Krajicek,MaliVai Washington,Dutch,,,right,Grass / Outdoor,392500
+1996,French Open,Yevgeny Kafelnikov,Michael Stich,Russian,,,right,Clay,3452000
+1996,Australian Open,Boris Becker,Michael Chang,German,,,right,Rebound Ace,562000
+1995,U.S. Open,Pete Sampras,Andre Agassi,American,,,right,DecoTurf - outdoors,575000
+1995,Wimbledon,Pete Sampras,Boris Becker,American,,,right,Grass / Outdoor,365000
+1995,French Open,Thomas Muster,Michael Chang,Austrian,,,left,Clay,3320000
+1995,Australian Open,Andre Agassi,Pete Sampras,American,,,right,Rebound Ace,480000
+1994,U.S. Open,Andre Agassi,Michael Stich,American,,,right,DecoTurf - outdoors,550000
+1994,Wimbledon,Pete Sampras,Goran Ivanisevic,American,,,right,Grass / Outdoor,345000
+1994,French Open,Sergi Bruguera,Alberto Berasategui,Spanish,,,right,Clay,3160000
+1994,Australian Open,Pete Sampras,Todd Martin,American,,,right,Rebound Ace,460000
+1993,U.S. Open,Pete Sampras,Cedric Pioline,American,,,right,DecoTurf - outdoors,535000
+1993,Wimbledon,Pete Sampras,Jim Courier,American,,,right,Grass / Outdoor,305000
+1993,French Open,Sergi Bruguera,Jim Courier,Spanish,,,right,Clay,2680000
+1993,Australian Open,Jim Courier,Stefan Edberg,American,,,right,Rebound Ace,410000
+1992,U.S. Open,Stefan Edberg,Pete Sampras,Swedish,,,right,DecoTurf - outdoors,500000
+1992,Wimbledon,Andre Agassi,Goran Ivanisevic,American,,,right,Grass / Outdoor,265000
+1992,French Open,Jim Courier,Petr Korda,American,,,right,Clay,2680000
+1992,Australian Open,Jim Courier,Stefan Edberg,American,,,right,Rebound Ace,360000
+1991,U.S. Open,Stefan Edberg,Jim Courier,Swedish,,,right,DecoTurf - outdoors,400000
+1991,Wimbledon,Michael Stich,Boris Becker,German,,,right,Grass / Outdoor,240000
+1991,French Open,Jim Courier,Andre Agassi,American,,,right,Clay,2448000
+1991,Australian Open,Boris Becker,Ivan Lendl,German,,,right,Rebound Ace,320000
+1990,U.S. Open,Pete Sampras,Andre Agassi,American,,,right,DecoTurf - outdoors,350000
+1990,Wimbledon,Stefan Edberg,Boris Becker,Swedish,,,right,Grass / Outdoor,230000
+1990,French Open,Andres Gomez,Andre Agassi,Ecuadorian,,,left,Clay,2226100
+1990,Australian Open,Ivan Lendl,Stefan Edberg,Czechoslovakia,,,right,Rebound Ace,266667
+1989,U.S. Open,Boris Becker,Ivan Lendl,German,,,right,DecoTurf - outdoors,300000
+1989,Wimbledon,Boris Becker,Stefan Edberg,German,,,right,Grass / Outdoor,190000
+1989,French Open,Michael Chang,Stefan Edberg,American,,,right,Clay,1791390
+1989,Australian Open,Ivan Lendl,Miloslav Mecir,Czechoslovakia,,,right,Rebound Ace,140000
+1988,U.S. Open,Mats Wilander,Ivan Lendl,Swedish,,,right,DecoTurf - outdoors,275000
+1988,Wimbledon,Stefan Edberg,Boris Becker,Swedish,,,right,Grass / Outdoor,165000
+1988,French Open,Mats Wilander,Henri Leconte,Swedish,,,right,Clay,1500240
+1988,Australian Open,Mats Wilander,Pat Cash,Swedish,,,right,Rebound Ace,105000
+1987,U.S. Open,Ivan Lendl,Mats Wilander,Czechoslovakia,,,right,DecoTurf - outdoors,250000
+1987,Wimbledon,Pat Cash,Ivan Lendl,Australian,,,right,Grass / Outdoor,155000
+1987,French Open,Ivan Lendl,Mats Wilander,Czechoslovakia,,,right,Clay,1303800
+1987,Australian Open,Stefan Edberg,Pat Cash,Swedish,,,right,Grass,103875
+1986,U.S. Open,Ivan Lendl,Miloslav Mecir,Czechoslovakia,,,right,DecoTurf - outdoors,210000
+1986,Wimbledon,Boris Becker,Ivan Lendl,German,,,right,Grass / Outdoor,140000
+1986,French Open,Ivan Lendl,Mikael Pernfors,Czechoslovakia,,,right,Clay,1397250
+1985,Australian Open,Stefan Edberg,Mats Wilander,Swedish,,,right,Grass,100000
+1985,U.S. Open,Ivan Lendl,John McEnroe,Czechoslovakia,,,right,DecoTurf - outdoors,187500
+1985,Wimbledon,Boris Becker,Kevin Curren,German,,,right,Grass / Outdoor,130000
+1985,French Open,Mats Wilander,Ivan Lendl,Swedish,,,right,Clay,1338200
+1984,Australian Open,Mats Wilander,Kevin Curren,Swedish,,,right,Grass,100000
+1984,U.S. Open,John McEnroe,Ivan Lendl,American,,,left,DecoTurf - outdoors,160000
+1984,Wimbledon,John McEnroe,Jimmy Connors,American,,,left,Grass / Outdoor,100000
+1984,French Open,Ivan Lendl,John McEnroe,Czechoslovakia,,,right,Clay,1058600
+1983,Australian Open,Mats Wilander,Ivan Lendl,Swedish,,,right,Grass,100000
+1983,U.S. Open,Jimmy Connors,Ivan Lendl,American,,,left,DecoTurf - outdoors,120000
+1983,Wimbledon,John McEnroe,Chris Lewis,American,,,left,Grass / Outdoor,66600
+1983,French Open,Yannick Noah,Mats Wilander,French,,,right,Clay,500000
+1982,Australian Open,Johan Kriek,Steve Denton,American,,,right,Grass,77500
+1982,U.S. Open,Jimmy Connors,Ivan Lendl,American,,,left,DecoTurf - outdoors,90000
+1982,Wimbledon,Jimmy Connors,John McEnroe,American,,,left,Grass / Outdoor,41677
+1982,French Open,Mats Wilander,Guillermo Vilas,Swedish,,,right,Clay,400000
+1981,Australian Open,Johan Kriek,Steve Denton,American,,,right,Grass,72000
+1981,U.S. Open,John McEnroe,Bjorn Borg,American,,,left,DecoTurf - outdoors,66000
+1981,Wimbledon,John McEnroe,Bjorn Borg,American,,,left,Grass / Outdoor,21600
+1981,French Open,Bjorn Borg,Ivan Lendl,Swedish,,,right,Clay,250000
+1980,Australian Open,Brian Teacher,Kim Warwick,American,,,right,Grass,64000
+1980,U.S. Open,John McEnroe,Bjorn Borg,American,,,left,DecoTurf - outdoors,46000
+1980,Wimbledon,Bjorn Borg,John McEnroe,Swedish,,,right,Grass / Outdoor,20000
+1980,French Open,Bjorn Borg,Vitas Gerulaitis,Swedish,,,right,Clay,221000
+1979,Australian Open,Guillermo Vilas,John Sadri,Argentine,,,left,Grass,50015
+1979,U.S. Open,John McEnroe,Vitas Gerulaitis,American,,,left,DecoTurf - outdoors,39000
+1979,Wimbledon,Bjorn Borg,Roscoe Tanner,Swedish,,,right,Grass / Outdoor,20000
+1979,French Open,Bjorn Borg,Victor Pecci,Swedish,,,right,Clay,208000
+1978,Australian Open,Guillermo Vilas,John Marks,Argentine,,,left,Grass,50015
+1978,U.S. Open,Jimmy Connors,Bjorn Borg,American,,,left,DecoTurf - outdoors,38000
+1978,Wimbledon,Bjorn Borg,Jimmy Connors,Swedish,,,right,Grass / Outdoor,19000
+1978,French Open,Bjorn Borg,Guillermo Vilas,Swedish,,,right,Clay,210000
+1977,Australian Open (Dec),Vitas Gerulaitis,John Lloyd,American,,,right,Grass,41000
+1977,U.S. Open,Guillermo Vilas,Jimmy Connors,Argentine,,,left,Clay - outdoors,33000
+1977,Wimbledon,Bjorn Borg,Jimmy Connors,Swedish,,,right,Grass / Outdoor,15000
+1977,French Open,Guillermo Vilas,Brian Gottfried,Argentine,,,left,Clay,190000
+1977,Australian Open (Jan),Roscoe Tanner,Guillermo Vilas,American,,,left,Grass,28000
+1976,U.S. Open,Jimmy Connors,Bjorn Borg,American,,,left,Clay - outdoors,30000
+1976,Wimbledon,Bjorn Borg,Ilie Nastase,Swedish,,,right,Grass / Outdoor,12500
+1976,French Open,Adriano Panatta,Harold Soloman,Italian,,,right,Clay,130000
+1976,Australian Open,Mark Edmondson,John Newcombe,Australian,,,right,Grass,8156
+1975,U.S. Open,Manuel Orantes,Jimmy Connors,American,,,left,Clay - outdoors,25000
+1975,Wimbledon,Arthur Ashe,Jimmy Connors,American,,,right,Grass / Outdoor,10000
+1975,French Open,Bjorn Borg,Guillermo Vilas,Swedish,,,right,Clay,120000
+1975,Australian Open,John Newcombe,Jimmy Connors,Australian,,,right,Grass,9234
+1974,U.S. Open,Jimmy Connors,Ken Rosewall,American,,,left,outdoors,22500
+1974,Wimbledon,Jimmy Connors,Ken Rosewall,American,,,left,Grass / Outdoor,10000
+1974,French Open,Bjorn Borg,Manuel Orantes,Swedish,,,right,Clay,120000
+1974,Australian Open,Jimmy Connors,Phil Dent,American,,,left,Grass,6500
+1973,U.S. Open,John Newcombe,Jan Kodes,Australian,,,right,outdoors,25000
+1973,Wimbledon,Jan Kodes,Alex Metreveli,Czech,,,right,Grass / Outdoor,5000
+1973,French Open,Ilie Nastase,Nikola Pilic,Romanian,,,right,Clay,70000
+1973,Australian Open,John Newcombe,Onny Parun,Australian,,,right,Grass,6750
+1972,U.S. Open,Ilie Nastase,Arthur Ashe,Romanian,,,right,outdoors,25000
+1972,Wimbledon,Stan Smith,Ilie Nastase,American,,,right,Grass / Outdoor,5000
+1972,French Open,Andres Gimeno,Patrick Proisy,Spanish,,,right,Clay,48000
+1972,Australian Open,Ken Rosewall,Mal Anderson,Australian,,,right,Grass,2000
+1971,U.S. Open,Stan Smith,Jan Kodes,American,,,right,outdoors,15000
+1971,Wimbledon,John Newcombe,Stan Smith,Australian,,,right,Grass / Outdoor,3750
+1971,French Open,Jan Kodes,Ilie Nastase,Czech,,,right,Clay,48000
+1971,Australian Open,Ken Rosewall,Arthur Ashe,Australian,,,right,Grass,9000
+1970,U.S. Open,Ken Rosewall,Tony Roche,Australian,,,right,outdoors,20000
+1970,Wimbledon,John Newcombe,Ken Rosewall,Australian,,,right,Grass / Outdoor,3000
+1970,French Open,Jan Kodes,Zeljiko Franulovic,Czech,,,right,Clay,56000
+1970,Australian Open,Arthur Ashe,Dick Crealy,American,,,right,Grass,
+1969,U.S. Open,Rod Laver,Tony Roche,Australian,,,left,outdoors,16000
+1969,Wimbledon,Rod Laver,John Newcombe,Australian,,,left,Grass / Outdoor,3000
+1969,French Open,Rod Laver,Ken Rosewall,Australian,,,left,Clay,35000
+1969,Australian Open,Rod Laver,Andres Gimeno,Australian,,,left,Grass,
+1968,U.S. Open,Arthur Ashe,Tom Okker,American,,,right,outdoors,14000
+1968,Wimbledon,Rod Laver,Tony Roche,Australian,,,left,Grass / Outdoor,2000
+1968,French Open,Ken Rosewall,Rod Laver,Australian,,,right,Clay,15000
+1968,Australian Open,Bill Bowrey,Juan Gisbert,Australian,,,right,Grass,
+1967,U.S. Open,John Newcombe,Clark Graebner,Australian,,,right,outdoors,
+1967,Wimbledon,John Newcombe,Wilhelm Bungert,Australian,,,right,Grass / Outdoor,
+1967,French Open,Roy Emerson,Tony Roche,Australian,,,right,Clay,
+1967,Australian Open,Roy Emerson,Arthur Ashe,Australian,,,right,Grass,
+1966,U.S. Open,Fred Stolle,John Newcombe,Australian,,,right,outdoors,
+1966,Wimbledon,Manuel Santana,Dennis Ralston,Spanish,,,right,Grass / Outdoor,
+1966,French Open,Tony Roche,Istvan Gulyas,Australian,,,left,Clay,
+1966,Australian Open,Roy Emerson,Arthur Ashe,Australian,,,right,Grass,
+1965,U.S. Open,Manuel Santana,Cliff Drysdale,Spanish,,,right,outdoors,
+1965,Wimbledon,Roy Emerson,Fred Stolle,Australian,,,right,Grass / Outdoor,
+1965,French Open,Fred Stolle,Tony Roche,Australian,,,right,Clay,
+1965,Australian Open,Roy Emerson,Fred Stolle,Australian,,,right,Grass,
+1964,U.S. Open,Roy Emerson,Fred Stolle,Australian,,,right,outdoors,
+1964,Wimbledon,Roy Emerson,Fred Stolle,Australian,,,right,Grass / Outdoor,
+1964,French Open,Manuel Santana,Nicola Pietrangeli,Spanish,,,right,Clay,
+1964,Australian Open,Roy Emerson,Fred Stolle,Australian,,,right,Grass,
+1963,U.S. Open,Rafael Osuna,"Frank Froehling, III",Mexican,,,right,outdoors,
+1963,Wimbledon,C.R. McKinley,Fred Stolle,American,,,right,Grass / Outdoor,
+1963,French Open,Roy Emerson,Pierre Darmon,Australian,,,right,Clay,
+1963,Australian Open,Roy Emerson,Ken Fletcher,Australian,,,right,Grass,
+1962,U.S. Open,Rod Laver,Roy Emerson,Australian,,,left,outdoors,
+1962,Wimbledon,Rod Laver,Martin Mulligan,Australian,,,left,Grass / Outdoor,
+1962,French Open,Rod Laver,Roy Emerson,Australian,,,left,Clay,
+1962,Australian Open,Rod Laver,Roy Emerson,Australian,,,left,Grass,
+1961,U.S. Open,Roy Emerson,Rod Laver,Australian,,,right,outdoors,
+1961,Wimbledon,Rod Laver,Chuck McKinley,Australian,,,left,Grass / Outdoor,
+1961,French Open,Manuel Santana,Nicola Pietrangeli,Spanish,,,right,Clay,
+1961,Australian Open,Roy Emerson,Rod Laver,Australian,,,right,Grass,
+1960,U.S. Open,Neale Fraser,Rod Laver,Australian,,,left,outdoors,
+1960,Wimbledon,Neale Fraser,Rod Laver,Australian,,,left,Grass / Outdoor,
+1960,French Open,Nicola Pietrangeli,Luis Ayala,Italian,,,right,Clay,
+1960,Australian Open,Rod Laver,Neale Fraser,Australian,,,left,Grass,
+1959,U.S. Open,Neale Fraser,Alejandro Olmedo,Australian,,,left,outdoors,
+1959,Wimbledon,Alejandro Olmedo,Rod Laver,peruvian,,,right,Grass / Outdoor,
+1959,French Open,Nicola Pietrangeli,Ian Vermaak,Italian,,,right,Clay,
+1959,Australian Open,Alex Olmedo,Neale Fraser,peruvian,,,right,Grass,
+1958,U.S. Open,Ashley J. Cooper,Malcolm J. Anderson,Australian,,,right,outdoors,
+1958,Wimbledon,Ashley J. Cooper,Neale Fraser,Australian,,,right,Grass / Outdoor,
+1958,French Open,Mervyn Rose,Luis Ayala,Australian,,,right,Clay,
+1958,Australian Open,Ashley J. Cooper,Mal Anderson,Australian,,,right,Grass,
+1957,U.S. Open,Malcolm J. Anderson,Ashley J. Cooper,Australian,,,right,outdoors,
+1957,Wimbledon,Lewis Hoad,Ashley Cooper,Australian,,,right,Grass / Outdoor,
+1957,French Open,Sven Davidson,Herbert Flam,Swedish,,,right,Clay,
+1957,Australian Open,Ashley J. Cooper,Neale Fraser,Australian,,,right,Grass,
+1956,U.S. Open,Ken Rosewall,Lewis Hoad,Australian,,,right,outdoors,
+1956,Wimbledon,Lewis Hoad,Ken Rosewall,Australian,,,right,Grass / Outdoor,
+1956,French Open,Lewis Hoad,Sven Davidson,Australian,,,right,Clay,
+1956,Australian Open,Lewis Hoad,Ken Rosewall,Australian,,,right,Grass,
+1955,U.S. Open,Tony Trabert,Ken Rosewall,American,,,right,outdoors,
+1955,Wimbledon,Tony Trabert,Kurt Nielsen,American,,,right,Grass / Outdoor,
+1955,French Open,Tony Trabert,Sven Davidson,American,,,right,Clay,
+1955,Australian Open,Ken Rosewall,Lew Hoad,Australian,,,right,Grass,
+1954,U.S. Open,E. Victor Seixas Jr.,Rex Hartwig,American,,,right,outdoors,
+1954,Wimbledon,Jaroslav Drobny,Ken Rosewall,Czechoslovak,,,left,Grass / Outdoor,
+1954,French Open,Tony Trabert,Sven Davidson,American,,,right,Clay,
+1954,Australian Open,Mervyn Rose,Rex Hartwig,Australian,,,right,Grass,
+1953,U.S. Open,Tony Trabert,"E. Victor Seixas, Jr.",American,,,right,outdoors,
+1953,Wimbledon,E. Victor Seixas Jr.,Kurt Nielsen,American,,,right,Grass / Outdoor,
+1953,French Open,Ken Rosewall,"E. Victor Seixas, Jr.",Australian,,,right,Clay,
+1953,Australian Open,Ken Rosewall,Mervyn Rose,Australian,,,right,Grass,
+1952,U.S. Open,Frank Sedgman,Gardnar Mulloy,Australian,,,right,outdoors,
+1952,Wimbledon,Frank Sedgman,Jaroslav Drobny,Australian,,,right,Grass / Outdoor,
+1952,French Open,Jaroslav Drobny,Frank Sedgman,Czechoslovak,,,left,Clay,
+1952,Australian Open,Ken McGregor,Frank Sedgman,Australian,,,right,Grass,
+1951,U.S. Open,Frank Sedgman,"E. Victor Seixas, Jr.",Australian,,,right,outdoors,
+1951,Wimbledon,R. Savitt,Ken McGregor,American,,,right,Grass / Outdoor,
+1951,French Open,Jaroslav Drobny,Eric Sturgess,Czechoslovak,,,left,Clay,
+1951,Australian Open,Dick Savitt,Ken McGregor,American,,,right,Grass,
+1950,U.S. Open,Arthur Larsen,Herbert Flam,American,,,right,outdoors,
+1950,Wimbledon,J.E. Patty,Frank Sedgman,American,,,right,Grass / Outdoor,
+1950,French Open,Budge Patty,Jaroslav Drobny,American,,,right,Clay,
+1950,Australian Open,Frank Sedgman,Ken McGregor,Australian,,,right,Grass,
